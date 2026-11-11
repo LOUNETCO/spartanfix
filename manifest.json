@@ -1,0 +1,22 @@
+{
+  "name": "Spartan FIX",
+  "short_name": "Spartan FIX",
+  "description": "Se tem conserto, a gente resolve.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#24357f",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
